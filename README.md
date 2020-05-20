@@ -34,6 +34,7 @@ cd Ladders-Game
 python3 main.py
 ```
 3. You arrive in a tkinter window to create the players. The checkbutton **Auto** means that you don't have to press SPACE to roll the dice if it is checked.
+
 ![](https://github.com/Quentin18/Ladders-Game/blob/master/captures/tkinter.png)
 4. Click on **Valid** and the game starts.
 
